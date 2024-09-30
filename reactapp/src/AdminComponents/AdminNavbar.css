@@ -1,0 +1,9 @@
+#admin{
+    border: 2px solid rgba(243, 188, 107, 0.7);
+    border-radius: 5px;
+}
+
+
+.modal-footer{
+    border-top:none
+  }
